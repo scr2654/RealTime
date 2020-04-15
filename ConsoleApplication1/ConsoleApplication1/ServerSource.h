@@ -16,7 +16,6 @@ using namespace std;
 class ServerSource
 {
 	private :
-		int a = 1;
 		SOCKET mServerSocket;
 		SOCKET mClientSocket;
 
